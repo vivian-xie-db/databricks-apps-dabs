@@ -1,7 +1,0 @@
-command:
-  - streamlit
-  - run
-  - app.py
-env:
-  - name: JOB_ID
-    valueFrom: app-job
